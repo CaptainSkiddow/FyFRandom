@@ -22,3 +22,7 @@ const third_words = [
 const span = document.createElement('span');
 const container = document.getElementsByClassName('containerText')[0];
 container.appendChild(span);
+
+function randomizer() {
+
+};
